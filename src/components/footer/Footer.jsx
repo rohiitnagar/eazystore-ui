@@ -8,7 +8,7 @@ export default function Footer(){
             Built with 
             <FontAwesomeIcon icon={faHeart} className="heart-icon" />  
             by 
-            <a href="https://technerd.in/" target="_blank" rel="noreferrer">TechNerd</a>
+            <a href="https://technerd.in/" target="_blank" rel="noreferrer">TechNerd.in</a>
         </footer>
     );
 }
